@@ -1,5 +1,4 @@
-smart-ticket
-============
-# Introduction
+Intro to smart-ticket
+=====================
 
-This application is
+This application is ...
